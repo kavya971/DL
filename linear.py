@@ -17,6 +17,13 @@ pred=model.predict(X)
 plt.scatter(X,Y,label="original data")
 plt.plot(X,pred)
 plt.show()
+
+
+
+
+
+
+
 #import libraries
 import numpy as np
 from keras.datasets import mnist
